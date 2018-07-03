@@ -12,7 +12,6 @@
 		F74A84E420EB3D1C00CC98B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F74A84E220EB3D1C00CC98B9 /* Main.storyboard */; };
 		F74A84E620EB3D1D00CC98B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F74A84E520EB3D1D00CC98B9 /* Assets.xcassets */; };
 		F74A84E920EB3D1D00CC98B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F74A84E720EB3D1D00CC98B9 /* LaunchScreen.storyboard */; };
-		F74A84F120EB3F0300CC98B9 /* Screen Shot 2016-03-12 at 10.41.55 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = F74A84F020EB3F0300CC98B9 /* Screen Shot 2016-03-12 at 10.41.55 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +22,6 @@
 		F74A84E520EB3D1D00CC98B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F74A84E820EB3D1D00CC98B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F74A84EA20EB3D1D00CC98B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F74A84F020EB3F0300CC98B9 /* Screen Shot 2016-03-12 at 10.41.55 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2016-03-12 at 10.41.55 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 				F74A84E020EB3D1C00CC98B9 /* ViewController.swift */,
 				F74A84E220EB3D1C00CC98B9 /* Main.storyboard */,
 				F74A84E520EB3D1D00CC98B9 /* Assets.xcassets */,
-				F74A84F020EB3F0300CC98B9 /* Screen Shot 2016-03-12 at 10.41.55 AM.png */,
 				F74A84E720EB3D1D00CC98B9 /* LaunchScreen.storyboard */,
 				F74A84EA20EB3D1D00CC98B9 /* Info.plist */,
 			);
@@ -127,7 +124,6 @@
 			files = (
 				F74A84E920EB3D1D00CC98B9 /* LaunchScreen.storyboard in Resources */,
 				F74A84E620EB3D1D00CC98B9 /* Assets.xcassets in Resources */,
-				F74A84F120EB3F0300CC98B9 /* Screen Shot 2016-03-12 at 10.41.55 AM.png in Resources */,
 				F74A84E420EB3D1C00CC98B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
